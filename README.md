@@ -1,4 +1,4 @@
-# ChessMetrics-Quantifying-My-Board-Battles
+# ChessMetrics: Quantifying My Board Battles
 
 ![alt text](https://github.com/Schlon24/ChessMetrics-Quantifying-My-Board-Battles/blob/b96a4b33a449278217449ee1d4d87a486b6d8dd3/ChessMetrics_%20Quantifying%20My%20Board%20Battles.png)
 
@@ -52,7 +52,6 @@ When diving into the data, I realized it wasn't immediately tailored to my gamep
 3. Bringing Both Together:
    - I merged the data from Lichess and Chess.com.
    - I added an outcome column to easily see if I won, lost, or drew, making sure it reflected my perspective in each game.
-   - 
 
 ## Visualization with Tableau
 After processing and refining my chess data, it was time to visualize it. Tableau was my tool of choice, allowing me to create a comprehensive dashboard.
